@@ -28,15 +28,13 @@ Where X is the number given in the line "Weirdeaux Monster's killed: XXXX" plus 
 
 Recommendations on Familiar:
 
---Potato base familiar: 
+--Potato base familiar. Recommendation is Xiblaxian Holo-Companion: https://kol.coldfront.net/thekolwiki/index.php/Xiblaxian_Holo-Companion
 
---Recommendation Xiblaxian Holo-Companion: https://kol.coldfront.net/thekolwiki/index.php/Xiblaxian_Holo-Companion
-
-------_Xiblaxian holo-buddy simcode is really cheap and gives blocking and init_
+------_Xiblaxian holo-buddy simcode is really cheap in the mall and gives blocking and init_
 
 --Use one of each of the soups from the primordial soup kitchen: https://kol.coldfront.net/thekolwiki/index.php/The_Primordial_Soup_Kitchen
 
----They give weight and extra abilities to the familiar
+---They give weight and extra abilities to the familiar. You want to hit a minimum weight of 60
 
 ---
 Recommendations on Gear
