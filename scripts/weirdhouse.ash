@@ -30,7 +30,7 @@ fightadv = fight.to_int();
 	//sets combat
 	set_property("battleAction", "custom combat script");
 
-	if(get_property("customCombatScript") == "weirdhouse"){
+	if(get_property("customCombatScript") != "weirdhouse"){
 	set_property("customCombatScript", "weirdhouse");
 	}
 
@@ -40,7 +40,7 @@ fightadv = fight.to_int();
 
 	//makes sure you have the adventures
 	if(fightadv > my_adventures()){
-	abort("You don't have that many adventures left! You only have"+my_adventures());
+	abort("You don't have that many adventures left! You only have: "+my_adventures());
 	}
 
 	//makes sure you have the combat items
