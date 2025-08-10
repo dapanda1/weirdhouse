@@ -2,9 +2,9 @@
 
 void main(string fight) {
 
-string preferredItem1 = "divine blowout";
+item preferredItem1 = $item[divine blowout];
 item stunItem1 = $item[CSA obedience grenade];
-string stunItem2 = "gas balloon";
+item stunItem2 = $item[gas balloon];
 
 int currentwkill;
 int newcurrentweirdkill;
@@ -39,12 +39,12 @@ fightadv = fight.to_int();
 	if(item_amount( stunItem1 ) < (2 * fightadv) ){
 	abort("You don't have enough "+stunItem1.to_string()+" to stun for that many fights! Buy more (2x the number of fights you want)");
 	}
-	if(item_amount( $item[stunItem2] ) < (2 * fightadv) ){
-	abort("You don't have enough "+stunItem2+" to stun for that many fights! Buy more (2x the number of fights you want)");
+	if(item_amount( stunItem2 ) < (2 * fightadv) ){
+	abort("You don't have enough "+stunItem2.to_string()+" to stun for that many fights! Buy more (2x the number of fights you want)");
 	}
 
-	if(item_amount( $item[preferredItem1] ) < (10 * fightadv) ){
-	print("You don't have enough "+preferredItem1+" to kill a combat only monster! Buy more, 20x the number of fights are doing is recommended","red");
+	if(item_amount( preferredItem1 ) < (10 * fightadv) ){
+	print("You don't have enough "+preferredItem1.to_string()+" to kill a combat only monster! Buy more, 20x the number of fights are doing is recommended","red");
 	abort("Only 5 times is required to run the script");
 	}
 
