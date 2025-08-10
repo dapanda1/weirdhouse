@@ -8,6 +8,8 @@ This script is for power-leveling to 256, the max level. It is completely unnece
 The adventure zone is here:
 https://kol.coldfront.net/thekolwiki/index.php/The_Mansion_of_Dr._Weirdeaux
 
+If you don't have access to Conspiracy Island you will need to buy a one day pass, "one-day ticket to Conspiracy Island"
+
 Use this code to install:
 `git checkout dapanda1/weirdhouse main`
 
