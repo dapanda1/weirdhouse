@@ -44,7 +44,7 @@ while(fightadv > 0){
 	set_property("currentweirdkill", newcurrentweirdkill);
 	}
 
-	print("Weirdeaux Monster's killed: "+currentwkill,"blue");	
+	print("Weirdeaux Monster's killed: "+newcurrentweirdkill,"blue");	
 
 	fightadv-=1;
 	print("Fights left: "+fightadv,"green");
