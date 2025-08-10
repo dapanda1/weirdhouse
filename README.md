@@ -17,10 +17,24 @@ In the KoLmafia Graphical CLI enter this command before running the script the v
 
 This creates the value to track the life of the Weirdeaux monster.
 
-Then every other time, to run the script just enter **weirdhouse X**
+Then every other time, to run the script just enter `weirdhouse X` where X is the number of adventures you want to spend
 
 IF the script breaks (you run out of MP or run out of items) you will need to run the first command again, when you defeat the monster (if the monster defeats you nothing is needed). If you just run away you don't need to run the command below. Running away is recommended.
 
 `ash set_property("currentweirdkill", X);`
 
 Where X is the number given in the line "Weirdeaux Monster's killed: XXXX" plus 1.
+
+Recommendations on Familiar:
+-Potato base familiar: 
+--Recommendation Xiblaxian Holo-Companion: https://kol.coldfront.net/thekolwiki/index.php/Xiblaxian_Holo-Companion
+_Xiblaxian holo-buddy simcode is really cheap and gives blocking and init_
+
+-Use one of each of the soups from the primordial soup kitchen: https://kol.coldfront.net/thekolwiki/index.php/The_Primordial_Soup_Kitchen
+--They give weight and extra abilities to the familiar
+
+Recommendations on Gear
+
+Things to note:
+-Have you outfit on beforehand
+-
