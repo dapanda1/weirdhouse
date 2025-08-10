@@ -75,6 +75,9 @@ Things to note:
 -Crimbuccaneer bombjacket can be replaced with Jurassic Parka as it has an automatic stagger.
 
 HARD REQUIREMENTS:
+
 -Skills: Funkslinging, Utensil Twist, Shadow Noodles, Curse of Marinara
+
 -Combat Items: Divine Blowout, 	CSA obedience grenade, 	gas balloon
+
 -Equipment: Dinsey's pizza cutter, Mesmereyes™ contact lenses
