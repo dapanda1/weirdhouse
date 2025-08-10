@@ -43,7 +43,7 @@ Recommendations on Familiar:
 ---
 Recommendations on Gear
 
-Hat:		Lens of Hatred	-- used for lowering enemy defense.
+Hat:		Anything for maxing DA (I used Lens of Hatred	for lowering enemy defense.)
 
 Back:		Duke Vampire's regal cloak	-- Just used this for buffing stats
 
