@@ -34,7 +34,19 @@ _Xiblaxian holo-buddy simcode is really cheap and gives blocking and init_
 --They give weight and extra abilities to the familiar
 
 Recommendations on Gear
+Hat:		Lens of Hatred	-- used for lowering enemy defense.
+Back:		Duke Vampire's regal cloak	-- Just used this for buffing stats
+Shirt:		Crimbuccaneer bombjacket -- This is for dealing more damage with combat items
+Weapon:		Dinsey's pizza cutter -- HAVE TO HAVE (This has a skill that reduces the life of the monster to manageable levels)
+Off-Hand:		ancient hot dog wrapper	-- Used for MP regen
+Pants:		Greaves of the Murk Lord -- For Fam weight
+Accessory 1:		sphygmayomanometer	-- For buffing stats
+Accessory 2:		Drunkula's ring of haze	-- blocks the next attack after you have been hit.
+Accessory 3:		Mesmereyes™ contact lenses -- HAVE TO HAVE (This blocks attacks)
 
 Things to note:
 -Have you outfit on beforehand
--
+-Hat needs to have 200 power and anything you want to wear is fine, I would suggest something with MP regen.
+-If you don't have Drunkula's ring of haze you can use the attorney's badge.
+-If you don't have Mayo Clinic you something else that blocks.
+-Crimbuccaneer bombjacket can be replaced with Jurassic Parka as it has an automatic stagger.
