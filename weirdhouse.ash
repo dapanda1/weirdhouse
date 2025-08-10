@@ -1,34 +1,47 @@
-//Need to set the consult script
-//need to set outfit
+//need to manual set outfit
 
 void main(string fight) {
 	
 int currentwkill;
-
+string havewcss = read_ccs('weirdhouse');
 int newcurrentweirdkill;
 int fightadv;
 fightadv = fight.to_int();
+
+	if(havewcss == ''){
+	write_ccs(to_buffer('consult/drwog.ash'), "weirdhouse");
+	print("Created CCS for Weird", "green");
+	} else {
+	print("Already have CCS for Weird", "blue");
+	}
+
+	//sets combat
+	set_property("battleAction", "custom combat script");
+	set_property("customCombatScript", "weirdhouse");
 
 	if(have_effect($effect[Beaten up]) > 0){
 	abort("What went wrong?");
 	}
 
 while(fightadv > 0){
-//adventure in weirdeaux
-adv1($location[The Mansion of Dr. Weirdeaux], -1, "");
+	//adventure in weirdeaux
+	adv1($location[The Mansion of Dr. Weirdeaux], -1, "");
 
-currentwkill = get_property("currentweirdkill").to_int();
+	currentwkill = get_property("currentweirdkill").to_int();
 
-//increase the value of turns spent in weirdeaux
-newcurrentweirdkill=currentwkill+1;
+	//increase the value of turns spent in weirdeaux
+	newcurrentweirdkill=currentwkill+1;
 
-if(get_property("_lastCombatWon") != "false"){
-set_property("currentweirdkill", newcurrentweirdkill);
+	if(get_property("_lastCombatWon") != "false"){
+	set_property("currentweirdkill", newcurrentweirdkill);
+	}
+
+	print("Weirdeaux Monster's killed: "+currentwkill,"blue");	
+
+	fightadv-=1;
+	print("Fights left: "+fightadv,"green");
 }
 
-print("Weirdeaux Monster's killed: "+currentwkill,"blue");	
+	set_property("customCombatScript", "default");
 
-fightadv-=1;
-print("Fights left: "+fightadv,"green");
-}
 }
