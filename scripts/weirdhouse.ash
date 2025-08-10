@@ -3,10 +3,18 @@
 void main(string fight) {
 	
 int currentwkill;
-string havewcss = read_ccs('weirdhouse');
 int newcurrentweirdkill;
 int fightadv;
+
+string havewcss = read_ccs('weirdhouse');
+string havewpref = get_property("currentweirdkill") != "";
+
 fightadv = fight.to_int();
+	
+	//adds the tracking pref
+	if(havewpref == ''){
+	set_property("currentweirdkill", 0);
+	}
 
 	if(havewcss == ''){
 	write_ccs(to_buffer('consult/drwog.ash'), "weirdhouse");
