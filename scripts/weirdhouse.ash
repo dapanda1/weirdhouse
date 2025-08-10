@@ -48,7 +48,7 @@ fightadv = fight.to_int();
 	abort("Only 5 times is required to run the script");
 	}
 
-	/makes sure you have the adventures
+	//makes sure you have the adventures
 	if(fight > my_adventures()){
 	abort("You don't have that many adventures left! You only have"+my_adventures());
 	}
