@@ -3,7 +3,7 @@
 void main(string fight) {
 
 string preferredItem1 = "divine blowout";
-string stunItem1 = "CSA obedience grenade";
+item stunItem1 = $item[CSA obedience grenade];
 string stunItem2 = "gas balloon";
 
 int currentwkill;
@@ -36,8 +36,8 @@ fightadv = fight.to_int();
 	}
 
 	//makes sure you have the combat items
-	if(item_amount( $item[CSA obedience grenade] ) < (2 * fightadv) ){
-	abort("You don't have enough "+stunItem1+" to stun for that many fights! Buy more (2x the number of fights you want)");
+	if(item_amount( stunItem1 ) < (2 * fightadv) ){
+	abort("You don't have enough "+stunItem1.to_string()+" to stun for that many fights! Buy more (2x the number of fights you want)");
 	}
 	if(item_amount( $item[stunItem2] ) < (2 * fightadv) ){
 	abort("You don't have enough "+stunItem2+" to stun for that many fights! Buy more (2x the number of fights you want)");
