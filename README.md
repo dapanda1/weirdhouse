@@ -37,11 +37,11 @@ Recommendations on Familiar:
 ---They give weight and extra abilities to the familiar. You want to hit a minimum weight of 60
 
 ---
-Recommendations on Gear
+Recommendations on Gear: (Everything in this section should be able to be gotten without buy an Iotm)
 
 Hat:		Anything for maxing DA (I used Lens of Hatred	for lowering enemy defense.)
 
-Back:		Duke Vampire's regal cloak	-- Just used this for buffing stats
+Back:		Anything	-- Just used this for buffing stats
 
 Shirt:		Crimbuccaneer bombjacket -- This is for dealing more damage with combat items
 
@@ -51,24 +51,22 @@ Off-Hand:		ancient hot dog wrapper	-- Used for MP regen
 
 Pants:		Greaves of the Murk Lord -- For Fam weight
 
-Accessory 1:		sphygmayomanometer	-- For buffing stats
+Accessory 1:		Anything for buffing stats, restore MP or a blocking item
 
-Accessory 2:		Drunkula's ring of haze	-- blocks the next attack after you have been hit.
+Accessory 2:		attorney's badge (from mall) OR Drunkula's ring of haze	(from Dread) -- blocks the next attack after you have been hit.
 
 Accessory 3:		Mesmereyes™ contact lenses -- HAVE TO HAVE (This blocks attacks)
 
 ---
 Things to note:
 
--Have you outfit on beforehand
+-Be wearing your outfit on before running the script
 
--Hat needs to have 200 power and anything you want to wear is fine, I would suggest something with MP regen.
+-Hat should be anything that helps max your DA and anything you want to wear is fine, I would suggest something with MP regen though.
 
--If you don't have Drunkula's ring of haze you can use the attorney's badge.
+-Mayo Clinic is really good for buffing stats if you have it.
 
--If you don't have Mayo Clinic you something else that blocks.
-
--Crimbuccaneer bombjacket can be replaced with Jurassic Parka as it has an automatic stagger.
+-Crimbuccaneer bombjacket can be replaced with Jurassic Parka as it has an automatic stagger, but that is an IoTM.
 
 HARD REQUIREMENTS:
 
