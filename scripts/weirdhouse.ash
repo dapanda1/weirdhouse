@@ -17,7 +17,7 @@ fightadv = fight.to_int();
 	}
 
 	if(havewcss == ''){
-	write_ccs(to_buffer('consult/drwog.ash'), "weirdhouse");
+	write_ccs(to_buffer('consult consult/drwog.ash'), "weirdhouse");
 	print("Created CCS for Weird", "green");
 	} else {
 	print("Already have CCS for Weird", "blue");
