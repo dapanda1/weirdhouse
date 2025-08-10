@@ -12,15 +12,13 @@ Use this code to install:
 `git checkout dapanda1/weirdhouse main`
 
 ---
-This script is incredibly rough and hacked together from other scripts I have. It also doesn't buy, eat/drink, equip, or set your gear. It currently doesn't run first use settings either. Those need to be done here:
+This script is incredibly rough and hacked together from other scripts I have. It also doesn't buy, eat/drink, equip, or set your gear. Those need to be done here:
 
-In the KoLmafia Graphical CLI enter this command before running the script the very first time:
+To run the script just enter `weirdhouse X` where X is the number of adventures you want to spend. If you have already ran this script and are on a new ascension you need to enter this command before running the script:
 
 `ash set_property("currentweirdkill", 0);`
 
-This creates the value to track the life of the Weirdeaux monster.
-
-Then every other time, to run the script just enter `weirdhouse X` where X is the number of adventures you want to spend
+This resets the value to track the HP of the Weirdeaux monster.
 
 IF the script breaks (you run out of MP or run out of items) you will need to run the first command again, when you defeat the monster (if the monster defeats you nothing is needed). If you just run away you don't need to run the command below. Running away is recommended.
 
