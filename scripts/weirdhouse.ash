@@ -37,16 +37,16 @@ fightadv = fight.to_int();
 
 	//makes sure you have the combat items
 	if(item_amount( stunItem1 ) < (2 * fightadv) ){
-	print("You don't have enough "+item_amount( stunItem1 ));
+	print("You have: "+item_amount( stunItem1 )+" "+stunItem1.to_string());
 	abort("You don't have enough "+stunItem1.to_string()+" to stun for that many fights! Buy more (2x the number of fights you want)");
 	}
 	if(item_amount( stunItem2 ) < (2 * fightadv) ){
-	print("You don't have enough "+item_amount( stunItem2 ));
+	print("You have: "+item_amount( stunItem2 )+" "+stunItem2.to_string());
 	abort("You don't have enough "+stunItem2.to_string()+" to stun for that many fights! Buy more (2x the number of fights you want)");
 	}
 
 	if(item_amount( preferredItem1 ) < (10 * fightadv) ){
-	print("You don't have enough "+item_amount( preferredItem1 ));
+	print("You have: "+item_amount( preferredItem1 )+" "+preferredItem1.to_string());
 	print("You don't have enough "+preferredItem1.to_string()+" to kill a combat only monster! Buy more, 20x the number of fights are doing is recommended","red");
 	abort("Only 5 times is required to run the script");
 	}
