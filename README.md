@@ -1,5 +1,5 @@
 # weirdhouse
-Getting to 256 in KoL's Mansion of Dr. Weirdeaux with KoLmafia. 
+Getting to LVL 256 as a MOXIE CLASS in KoL's Mansion of Dr. Weirdeaux with KoLmafia. 
 
 **This is for the browser based game kingdomofloathing.com, if you are not playing it, you should.**
 
@@ -73,3 +73,8 @@ Things to note:
 -If you don't have Mayo Clinic you something else that blocks.
 
 -Crimbuccaneer bombjacket can be replaced with Jurassic Parka as it has an automatic stagger.
+
+HARD REQUIREMENTS:
+-Skills: Funkslinging, Utensil Twist, Shadow Noodles, Curse of Marinara
+-Combat Items: Divine Blowout, 	CSA obedience grenade, 	gas balloon
+-Equipment: Dinsey's pizza cutter, Mesmereyes™ contact lenses
