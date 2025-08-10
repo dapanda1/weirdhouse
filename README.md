@@ -3,7 +3,7 @@ Getting to LVL 256 as a MOXIE CLASS in KoL's Mansion of Dr. Weirdeaux with KoLma
 
 **This is for the browser based game kingdomofloathing.com, if you are not playing it, you should.**
 
-This script is for power-leveling to 256, the max level. It is completely unnecessary for any other reason than to say you did, or if you are building a bot.
+This script is for power-leveling to 256, the max level. It is completely unnecessary for any other reason than to say you did, or if you are building a bot. It was built from  this form post: https://forums.kingdomofloathing.com/vb/showthread.php?t=209841
 
 The adventure zone is here:
 https://kol.coldfront.net/thekolwiki/index.php/The_Mansion_of_Dr._Weirdeaux
@@ -43,7 +43,7 @@ Recommendations on Gear: (Everything in this section should be able to be gotten
 
 Hat:		Anything for maxing DA (I used Lens of Hatred	for lowering enemy defense.)
 
-Back:		Anything	-- Just used this for buffing stats
+Back:		Anything	-- Just used this for buffing stats, could also use it for MP regen.
 
 Shirt:		Crimbuccaneer bombjacket -- This is for dealing more damage with combat items
 
