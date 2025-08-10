@@ -9,7 +9,7 @@ The adventure zone is here:
 https://kol.coldfront.net/thekolwiki/index.php/The_Mansion_of_Dr._Weirdeaux
 
 Use this code to install:
-`git checkout dapanda1/weirdhouse`
+`git checkout dapanda1/weirdhouse main`
 
 ---
 This script is incredibly rough and hacked together from other scripts I have. It also doesn't buy, eat/drink, equip, or set your gear. It currently doesn't run first use settings either. Those need to be done here:
