@@ -2,9 +2,9 @@
 
 void main(string fight) {
 
-item preferredItem1 = $item[divine blowout];
-item stunItem1 = $item[CSA obedience grenade];
-item stunItem2 = $item[gas balloon];
+string preferredItem1 = "divine blowout";
+string stunItem1 = "CSA obedience grenade";
+string stunItem2 = "gas balloon";
 
 int currentwkill;
 int newcurrentweirdkill;
