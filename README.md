@@ -1,7 +1,7 @@
 # weirdhouse
 Getting to 256 in KoL's Mansion of Dr. Weirdeaux with KoLmafia. 
 
-**This is for the browser based game kingdomofloathing.com, if you are not playing it, you should. **
+**This is for the browser based game kingdomofloathing.com, if you are not playing it, you should.**
 
 This script is for power-leveling to 256, the max level. It is completely unnecessary for any other reason than to say you did, or if you are building a bot.
 
