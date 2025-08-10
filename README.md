@@ -78,6 +78,6 @@ HARD REQUIREMENTS:
 
 -Skills: Funkslinging, Utensil Twist, Shadow Noodles, Curse of Marinara
 
--Combat Items (Lots of): Divine Blowout (Probably 20000-30000), CSA obedience grenade (Probably 2000-3000), gas balloon (Probably 2000-3000)
+-Combat Items (Lots of): Divine Blowout (Probably 10000-20000), CSA obedience grenade (Probably 2000-3000), gas balloon (Probably 2000-3000)
 
 -Equipment: Dinsey's pizza cutter, Mesmereyes™ contact lenses
