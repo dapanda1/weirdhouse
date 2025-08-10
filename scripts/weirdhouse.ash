@@ -29,14 +29,17 @@ fightadv = fight.to_int();
 
 	//sets combat
 	set_property("battleAction", "custom combat script");
+
+	if(get_property("customCombatScript") == "weirdhouse"){
 	set_property("customCombatScript", "weirdhouse");
+	}
 
 	if(have_effect($effect[Beaten up]) > 0){
 	abort("What went wrong?");
 	}
 
 	//makes sure you have the adventures
-	if(fight > my_adventures()){
+	if(fightadv > my_adventures()){
 	abort("You don't have that many adventures left! You only have"+my_adventures());
 	}
 
