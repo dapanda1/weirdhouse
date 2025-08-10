@@ -35,6 +35,11 @@ fightadv = fight.to_int();
 	abort("What went wrong?");
 	}
 
+	//makes sure you have the adventures
+	if(fight > my_adventures()){
+	abort("You don't have that many adventures left! You only have"+my_adventures());
+	}
+
 	//makes sure you have the combat items
 	if(item_amount( stunItem1 ) < (2 * fightadv) ){
 	print("You have: "+item_amount( stunItem1 )+" "+stunItem1.to_string()+"s");
@@ -49,11 +54,6 @@ fightadv = fight.to_int();
 	print("You have: "+item_amount( preferredItem1 )+" "+preferredItem1.to_string()+"s");
 	print("You don't have enough "+preferredItem1.to_string()+"s to kill a combat only monster! Buy more, 20x the number of fights are doing is recommended","red");
 	abort("Only 5 times is required to run the script");
-	}
-
-	//makes sure you have the adventures
-	if(fight > my_adventures()){
-	abort("You don't have that many adventures left! You only have"+my_adventures());
 	}
 
 
