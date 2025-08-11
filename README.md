@@ -45,7 +45,7 @@ Hat:		Anything for maxing DA (I used Lens of Hatred	for lowering enemy defense.)
 
 Back:		Anything	-- Just used this for buffing stats, could also use it for MP regen.
 
-Shirt:		Crimbuccaneer bombjacket -- This is for dealing more damage with combat items
+Shirt:		Anything -- MP regen or I would recommend the Crimbuccaneer bombjacket <- This is for dealing more damage with combat items
 
 Weapon:		Dinsey's pizza cutter -- HAVE TO HAVE (This has a skill that reduces the life of the monster to manageable levels)
 
@@ -78,9 +78,12 @@ HARD REQUIREMENTS:
 
 -Equipment: Dinsey's pizza cutter, Mesmereyes™ contact lenses
 
-STATS: Last use of this script 
+FUN STATS: Last use of this script 
 
+-3536 monster kills to reach mainstat cap
 
--3536 monster kills to reach stat cap
+-3650 monster kills to reach secondary stat cap (I used a distrubtion tuner for this)
 
 -Highest HP of a killed Monster: 401,748,670
+
+-Most XP at once for primary stat, without stat tuning: 569,535,721
