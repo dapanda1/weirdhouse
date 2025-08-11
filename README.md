@@ -78,6 +78,9 @@ HARD REQUIREMENTS:
 
 -Equipment: Dinsey's pizza cutter, Mesmereyes™ contact lenses
 
-STATS:
+STATS: Last use of this script 
 
--Last use of this script 3536 monster kills to reach stat cap
+
+-3536 monster kills to reach stat cap
+
+-Highest HP of a killed Monster: 401,748,670
