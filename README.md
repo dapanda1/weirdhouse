@@ -77,3 +77,7 @@ HARD REQUIREMENTS:
 -Combat Items (Lots of): Divine Blowout (Probably 10000-20000), CSA obedience grenade (Probably 2000-3000), gas balloon (Probably 2000-3000)
 
 -Equipment: Dinsey's pizza cutter, Mesmereyes™ contact lenses
+
+STATS:
+
+-Last use of this script 3536 monster kills to reach stat cap
