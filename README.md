@@ -16,7 +16,7 @@ Use this code to install:
 ---
 This script is incredibly rough and hacked together from other scripts I have. It also doesn't buy, eat/drink, equip, or set your gear. Those need to be done here:
 
-To run the script just enter `weirdhouse X` where X is the number of adventures you want to spend. If you have already ran this script and are on a new ascension you need to enter this command before running the script:
+To run the script just enter `weirdhouse X` where X is the number of adventures you want to spend. If you have already ran this script AND have used an "Agent Mauve", you need to enter this command before running the script:
 
 `ash set_property("currentweirdkill", 0);`
 
