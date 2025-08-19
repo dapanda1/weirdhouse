@@ -9,14 +9,24 @@ item stunItem2 = $item[gas balloon];
 int currentwkill;
 int newcurrentweirdkill;
 int fightadv;
+int numbcurrentasc;
+int numbweirdasc;
 
 string havewcss = read_ccs('weirdhouse');
 string havewpref = get_property("currentweirdkill") != "";
+string weirdasc = get_property("currentweirdascen");
+string currentasc = get_property("knownAscensions");
 
 fightadv = fight.to_int();
+numbcurrentasc = currentasc.to_int();
+numbweirdasc = weirdasc.to_int();
 
 	//adds the tracking pref
 	if(havewpref == ''){
+	set_property("currentweirdkill", 0);
+	}
+	if(weirdasc == '' || numbcurrentasc > numbweirdasc){
+	set_property("currentweirdascen", numbcurrentasc);
 	set_property("currentweirdkill", 0);
 	}
 
