@@ -36,7 +36,7 @@ Recommendations on Familiar:
 
 --Use one of each of the soups from the primordial soup kitchen: https://kol.coldfront.net/thekolwiki/index.php/The_Primordial_Soup_Kitchen
 
----They give weight and extra abilities to the familiar. You want to hit a minimum weight of 60 to get a 90% block rate from the fam.
+---They give weight and extra abilities to the familiar. You want to hit a minimum weight of 60 to get a 90% block rate from the fam. (getting there without buffs saves you a lot of MP)
 
 ---
 Recommendations on Gear: (Everything in this section should be able to be earned or purchased through the mall, without buying an Iotm)
