@@ -22,7 +22,7 @@ To run the script just enter `weirdhouse X` where X is the number of adventures 
 
 This resets the value to track the HP of the Weirdeaux monster for the combat items. Math was used to determine how many hit points they have and if it is worth it to try to kill the monster with a combat item.
 
-IF the script breaks without the combat ending (you run out of MP or run out of items) you will need to run the first command again, when you defeat the monster (if the monster defeats you nothing is needed); If you just run away, you don't need to run the command below (Running away is recommended to keep things cleaner).
+IF the script breaks without the combat ending (you run out of MP or run out of items) you will need to run the first command again, when you defeat the monster (if _the monster defeats you_ nothing is needed); If you just run away, you don't need to run the command below (Running away is recommended to keep things cleaner).
 
 `ash set_property("currentweirdkill", X);`
 
